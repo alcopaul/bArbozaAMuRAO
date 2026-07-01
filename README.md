@@ -1,2 +1,4 @@
 # bArbozaAMuRAO
-IA-16 &amp; IA-32 &amp; IA-64
+#
+# IA-16 & IA-32 & IA-64
+#
